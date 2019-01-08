@@ -6,9 +6,7 @@
 http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/
 
 ## Accompanying Notebooks for the "NumPy / SciPy Recipes for Data Science" Series:
-
-  * https://nbviewer.jupyter.org/github/p3ml/recipes/
-  * https://github.com/p3ml/recipes/
+Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/recipes/) or [github](https://github.com/p3ml/recipes/) or here:
 
   * [Ordinary Least Squares Optimization](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Ordinary%20Least%20Squares%20Optimization.ipynb)
   * [Non-Linear Least Squares Optimization](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Non-Linear%20Least%20Squares%20Optimization.ipynb)
