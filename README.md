@@ -1,6 +1,6 @@
-# P3ML Material on GitHub
-
 <img src="https://avatars1.githubusercontent.com/u/45455055" align="right" height="100" width="100" />
+
+# P3ML Material on GitHub
 
 The material for the project can be found at the [b-it](http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/)
 
