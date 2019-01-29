@@ -23,7 +23,6 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocat
   * [LDA Spike 2 - Counting](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%202%20-%20Counting.ipynb)
   * [LDA Spike 3 - Latent Dirichlet Allocation](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%203%20-%20Latent%20Dirichlet%20Allocation.ipynb)
   * [LDA Spike 4 - Topic Visualization](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb)
-  * [LDA Spike 4 - Topic Visualization](https://github.com/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb) on github. Scroll down for 100 word clouds.
       
 
 ## More to come...
