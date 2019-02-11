@@ -13,6 +13,7 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/recipes/) or [github](ht
   * [Regularized Least Squares Optimization](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Regularized%20Least%20Squares%20Optimization.ipynb)
   * [Kernel Least Squares Optimization](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Kernel%20Least%20Squares%20Optimization.ipynb)
 
+  * [Expectation Maximization for Gaussian Mixture Models](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Expectation%20Maximization%20for%20Gaussian%20Mixture%20Models.ipynb)
 
 ## Notebooks about "Latent Dirichlet Allocation":
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/) or [github](https://github.com/p3ml/latent_dirichlet_allocation/) or here:
