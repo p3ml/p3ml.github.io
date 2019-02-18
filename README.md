@@ -14,7 +14,7 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/recipes/) or [github](ht
   * [Kernel Least Squares Optimization](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Kernel%20Least%20Squares%20Optimization.ipynb)
 
   * [Expectation Maximization for Gaussian Mixture Models](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Expectation%20Maximization%20for%20Gaussian%20Mixture%20Models.ipynb)
-  * [EM-Algorithm for GMMs - Detailed Visualization and Playground](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/EM-Algorithm%20for%20GMMs%20-%20Detailed%20Visualization%20and%20Playground.ipynb) (or direct at [mybinder](https://mybinder.org/v2/gh/p3ml/recipes/master?filepath=EM-Algorithm for GMMs - Detailed Visualization and Playground.ipynb))
+  * [EM-Algorithm for GMMs - Detailed Visualization and Playground](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/EM-Algorithm%20for%20GMMs%20-%20Detailed%20Visualization%20and%20Playground.ipynb) (or direct at [mybinder](https://mybinder.org/v2/gh/p3ml/recipes/master?filepath=EM-Algorithm%20for%20GMMs%20-%20Detailed%20Visualization%20and%20Playground.ipynb))
 
 ## Notebooks about "Latent Dirichlet Allocation":
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/) or [github](https://github.com/p3ml/latent_dirichlet_allocation/) or here:
