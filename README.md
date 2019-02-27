@@ -3,7 +3,8 @@
 # Projekt P3ML
 ## Projektgekoppelter, Potentialorientierter und Praxisintegrierter Erwerb von ML Engineering Wissen
 
-[http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/](http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/)
+  * [http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/](http://www.b-it-center.de/b-it-programmes/teaching-material/p3ml/)
+  * [P3ML-ML-Engineering-Knowledge at researchgate.net](https://www.researchgate.net/project/P3ML-ML-Engineering-Knowledge)
 
 ## Accompanying Notebooks for the "NumPy / SciPy Recipes for Data Science" Series:
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/recipes/) or [github](https://github.com/p3ml/recipes/) or [mybinder](https://mybinder.org/v2/gh/p3ml/recipes/master) or here:
