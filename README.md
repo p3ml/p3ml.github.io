@@ -30,4 +30,8 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocat
   * [LDA Spike 4 - Topic Visualization](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb)
       
 
+## Notebooks about "AI Language Technology":
+Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)  or [github](https://github.com/p3ml/ai_language_technology/) or here:
+* [Word Embeddings - A Numeric Building Block of Natural Language Processing](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/blob/master/word-embeddings.ipynb) 
+
 ## More to come...
