@@ -22,6 +22,8 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/recipes/) or [github](ht
 ## Notebooks about "Latent Dirichlet Allocation":
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/) or [github](https://github.com/p3ml/latent_dirichlet_allocation/) or here:
 
+  * [LDA on "Returns"](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20on%20Returns.ipynb) An application of LDA on a minimal corpus containing just five sentences.
+
   * [LDA Spike - Configuration](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%20-%20Configuration.ipynb) Configure your working folder and potential proxies here!
   * [LDA Spike 0 - Corpus Creation](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%200%20-%20Corpus%20Creation.ipynb)
   * [LDA Spike 1 - Cleaning](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%201%20-%20Cleaning.ipynb)
