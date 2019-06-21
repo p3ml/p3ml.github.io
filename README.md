@@ -35,5 +35,15 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocat
 ## Notebooks about "AI Language Technology":
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)  or [github](https://github.com/p3ml/ai_language_technology/) or here:
 * [Word Embeddings - A Numeric Building Block of Natural Language Processing](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/blob/master/word-embeddings.ipynb) 
+* [Basic Usage of English Wordnet](https://github.com/p3ml/ai_language_technology/blob/master/English-wordnet.ipynb)
+* [Word-Sense Disambiguration for English - methods](https://github.com/p3ml/ai_language_technology/blob/master/English-WSD.ipynb)
+* [Word-Sense Disambiguration for English - Experiments](https://github.com/p3ml/ai_language_technology/blob/master/English-word_sense_experiment.ipynb)
+* [Preprocessing for constructing Russian nballs](https://github.com/p3ml/ai_language_technology/blob/master/Russian_pre_processing.ipynb)
+* [Constructing Russian nballs](https://github.com/p3ml/ai_language_technology/blob/master/Russian_nballs.ipynb)
+* [Preprocessing for Arabic Word-Embeddings](https://github.com/p3ml/ai_language_technology/blob/master/arabic-load-word-embedding.ipynb)
+* [Utility functions for Arabic Word-Embeddings](https://github.com/p3ml/ai_language_technology/blob/master/arabic-read-wordnet.ipynb)
+* [Preprocessing for Arabic Text File](https://github.com/p3ml/ai_language_technology/blob/master/arabic-normalize-text.ipynb)
+* [Creating tree structures of hypernym relations of Arabic](https://github.com/p3ml/ai_language_technology/blob/master/arabic-generate-word-tree-files.ipynb)
+* [Constructing Chinese nballs](https://github.com/p3ml/ai_language_technology/blob/master/chinese-nball-embeddings.ipynb)
 
 ## More to come...
