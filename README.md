@@ -45,5 +45,9 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)
 * [Preprocessing for Arabic Text File](https://github.com/p3ml/ai_language_technology/blob/master/arabic-normalize-text.ipynb)
 * [Creating tree structures of hypernym relations of Arabic](https://github.com/p3ml/ai_language_technology/blob/master/arabic-generate-word-tree-files.ipynb)
 * [Constructing Chinese nballs](https://github.com/p3ml/ai_language_technology/blob/master/chinese-nball-embeddings.ipynb)
+* [Hindi Data Generation](https://github.com/p3ml/ai_language_technology/blob/master/hindi_data_generation.ipynb)
+* [Hindi Data Precessing](https://github.com/p3ml/ai_language_technology/blob/master/hindi_data_preprocessing.ipynb)
+* [Hindi nball experiment 1](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment1.ipynb)
+* [Hindi nball experiment 2](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment2.ipynb)
 
 ## More to come...
