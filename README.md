@@ -36,7 +36,7 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocat
 
 ## Notebooks about "AI Language Technology":
 Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)  or [github](https://github.com/p3ml/ai_language_technology/) or here:
-* [Word Embeddings - A Numeric Building Block of Natural Language Processing](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/blob/master/word-embeddings.ipynb) 
+* [Word Embeddings - A Numeric Building Block of Natural Language Processing](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/blob/master/English-word-embeddings.ipynb) 
 * [Basic Usage of English Wordnet](https://github.com/p3ml/ai_language_technology/blob/master/English-wordnet.ipynb)
 * [Word-Sense Disambiguration for English - methods](https://github.com/p3ml/ai_language_technology/blob/master/English-WSD.ipynb)
 * [Word-Sense Disambiguration for English - Experiments](https://github.com/p3ml/ai_language_technology/blob/master/English-word_sense_experiment.ipynb)
