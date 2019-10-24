@@ -51,5 +51,3 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)
 * [Hindi Data Precessing](https://github.com/p3ml/ai_language_technology/blob/master/hindi_data_preprocessing.ipynb)
 * [Hindi nball experiment 1](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment1.ipynb)
 * [Hindi nball experiment 2](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment2.ipynb)
-
-## More to come...
