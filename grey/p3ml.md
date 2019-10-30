@@ -28,10 +28,9 @@ meant, you may use [nbviewer](https://nbviewer.jupyter.org/). There are
 even free services like [Binder](https://mybinder.org/) that allow to
 work interactively with notebooks stored at GitHub.
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| ![](/science/p3ml/grey_net/platforms.png)                                                        |
 | Screenshots of the "Minimum Enclosing Ball" notebook as displayed by GitHub, nbviewer and Binder |
+|-----------------|
+| ![Three platforms serving Jupyter Notebooks](platforms.png)                                      |
 
 A notebook consists for cells that may contain formatted text (Markdown,
 HTML, LaTeX), code (most often Python, might include data) and results
@@ -100,14 +99,12 @@ One lab experimented with Latent Dirichlet Allocation for Topic Mining
 (Blei, D. M., Ng, A. Y., Jordan, M. I. (2003). Latent Dirichlet
 Allocation. Journal of Machine Learning Research, 3, 993–1022.
 <https://dl.acm.org/citation.cfm?id=944919.944937>). Which resulted in
-another [set of
-notebooks](https://p3ml.github.io/#notebooks-about-latent-dirichlet-allocation).
+another [set of notebooks](https://p3ml.github.io/#notebooks-about-latent-dirichlet-allocation).
 The actual lab worked on data that we can not publish so the published
 notebooks took a separate source: Answers of deputies of the Deutsche
 Bundestag at [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/).
 The last notebook of this section shows the mined topics as wordclouds
-that give a (surprisingly?) [good impression of the
-topics](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb#Words-and-their-probability-presented-as-word-cloud).
+that give a (surprisingly?) [good impression of the topics](https://nbviewer.jupyter.org/github/p3ml/latent_dirichlet_allocation/blob/master/LDA%20Spike%204%20-%20Topic%20Visualization.ipynb#Words-and-their-probability-presented-as-word-cloud).
 
 There are already ready made solutions for topic mining. For example
 <https://www.hypershelf.org> from <https://inphoproject.org>. Another
@@ -120,20 +117,18 @@ Two [further labs](http://laotzu.bit.uni-bonn.de/teaching.htm)
 experimented with the N-Ball approach that combines state of the art
 word-embeddings into vector spaces (allowing calculations like "king" -
 "man" + "woman" = "queen") with concepts hierarchies as codified through
-[WordNet](https://wordnet.princeton.edu/). The students [transferred the
-approach to different
-languages](https://p3ml.github.io/#notebooks-about-ai-language-technology),
+[WordNet](https://wordnet.princeton.edu/). The students [transferred the approach to different languages](https://p3ml.github.io/#notebooks-about-ai-language-technology),
 often their mother tongue.
 
 ## Literature about Jupyter Notebooks
 
-  - Daniel Speicher, Tiansi Dong, Olaf Cremers, Christian Bauckhage, Armin B. Cremers: //Notes on the Code Quality Culture on Jupyter (Notebooks)//, [[http://fg-sre.gi.de/wsre2019/|21. Workshop Software-Reengineering & Evolution (WSRE) 2019]], Bad Honnef, Germany ([[https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_preprint.pdf|preprint]], [[https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_slides.pdf|slides]], [[https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/dlrwawse_2019_jupyter_slides.pdf|improved slides for another workshop]])  
-  - João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire: //A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks//, MSR 2019, Montreal, Canada ([[https://2019.msrconf.org/details/msr-2019-papers/36/A-Large-scale-Study-about-Quality-and-Reproducibility-of-Jupyter-Notebooks|details]])
-  - Rule A, Tabard A, and Hollan J. (2018) //Exploration and Explanation in Computational Notebooks//. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’18). ACM Press, New York, NY. doi:10.1145/3173574.3173606. (https://www.youtube.com/watch?v=trlfzLyDI6U)
+  - Daniel Speicher, Tiansi Dong, Olaf Cremers, Christian Bauckhage, Armin B. Cremers: *Notes on the Code Quality Culture on Jupyter (Notebooks)*, [21. Workshop Software-Reengineering & Evolution (WSRE) 2019](http://fg-sre.gi.de/wsre2019/), Bad Honnef, Germany ([preprint](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_preprint.pdf), [slides](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_slides.pdf), [improved slides for another workshop](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/dlrwawse_2019_jupyter_slides.pdf))  
+  - João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire: *A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks*, MSR 2019, Montreal, Canada ([details](https://2019.msrconf.org/details/msr-2019-papers/36/A-Large-scale-Study-about-Quality-and-Reproducibility-of-Jupyter-Notebooks))
+  - Rule A, Tabard A, and Hollan J. (2018) *Exploration and Explanation in Computational Notebooks*. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’18). ACM Press, New York, NY. doi:10.1145/3173574.3173606. (https://www.youtube.com/watch?v=trlfzLyDI6U)
   - Adam Rule, Amanda Birmingham, Cristal Zuniga, Ilkay Altintas, Shih-Cheng Huang, Rob Knight, Niema Moshiri, Mai H. Nguyen, Sara Brin Rosenthal, Fernando Pérez, Peter W. Rose: 
-    - //Ten Simple Rules for Reproducible Research in Jupyter Notebooks//, Arxiv 2018, https://arxiv.org/abs/1810.08055
-    - //Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks//, PLoS Comput Biol 15(7): e1007007. https://doi.org/10.1371/journal.pcbi.1007007
-  - Mary Beth Kery, Marissa Radensky, Mahima Arya, Bonnie E. John, and Brad A. Myers. 2018. //The Story in the Notebook: Exploratory Data Science using a Literate Programming Tool//. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 174, 11 pages. DOI: https://doi.org/10.1145/3173574.3173748, (https://www.youtube.com/watch?v=bmLUcnu1Qi8)
+    - *Ten Simple Rules for Reproducible Research in Jupyter Notebooks*, Arxiv 2018, https://arxiv.org/abs/1810.08055
+    - *Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks*, PLoS Comput Biol 15(7): e1007007. https://doi.org/10.1371/journal.pcbi.1007007
+  - Mary Beth Kery, Marissa Radensky, Mahima Arya, Bonnie E. John, and Brad A. Myers. 2018. *The Story in the Notebook: Exploratory Data Science using a Literate Programming Tool*. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 174, 11 pages. DOI: https://doi.org/10.1145/3173574.3173748, (https://www.youtube.com/watch?v=bmLUcnu1Qi8)
 
 ### Presentations
 
