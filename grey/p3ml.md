@@ -125,11 +125,11 @@ often their mother tongue.
 
   - Daniel Speicher, Tiansi Dong, Olaf Cremers, Christian Bauckhage, Armin B. Cremers: *Notes on the Code Quality Culture on Jupyter (Notebooks)*, [21. Workshop Software-Reengineering & Evolution (WSRE) 2019](http://fg-sre.gi.de/wsre2019/), Bad Honnef, Germany ([preprint](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_preprint.pdf), [slides](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/wsre_2019_jupyter_slides.pdf), [improved slides for another workshop](https://sewiki.iai.uni-bonn.de/_media/private/daniel/public/dlrwawse_2019_jupyter_slides.pdf))  
   - João Felipe Pimentel, Leonardo Murta, Vanessa Braganholo, Juliana Freire: *A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks*, MSR 2019, Montreal, Canada ([details](https://2019.msrconf.org/details/msr-2019-papers/36/A-Large-scale-Study-about-Quality-and-Reproducibility-of-Jupyter-Notebooks))
-  - Rule A, Tabard A, and Hollan J. (2018) *Exploration and Explanation in Computational Notebooks*. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’18). ACM Press, New York, NY. doi:10.1145/3173574.3173606. (https://www.youtube.com/watch?v=trlfzLyDI6U)
+  - Rule A, Tabard A, and Hollan J. (2018) *Exploration and Explanation in Computational Notebooks*. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI’18). ACM Press, New York, NY. <doi:10.1145/3173574.3173606>. (<https://www.youtube.com/watch?v=trlfzLyDI6U>)
   - Adam Rule, Amanda Birmingham, Cristal Zuniga, Ilkay Altintas, Shih-Cheng Huang, Rob Knight, Niema Moshiri, Mai H. Nguyen, Sara Brin Rosenthal, Fernando Pérez, Peter W. Rose: 
-    - *Ten Simple Rules for Reproducible Research in Jupyter Notebooks*, Arxiv 2018, https://arxiv.org/abs/1810.08055
-    - *Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks*, PLoS Comput Biol 15(7): e1007007. https://doi.org/10.1371/journal.pcbi.1007007
-  - Mary Beth Kery, Marissa Radensky, Mahima Arya, Bonnie E. John, and Brad A. Myers. 2018. *The Story in the Notebook: Exploratory Data Science using a Literate Programming Tool*. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 174, 11 pages. DOI: https://doi.org/10.1145/3173574.3173748, (https://www.youtube.com/watch?v=bmLUcnu1Qi8)
+    - *Ten Simple Rules for Reproducible Research in Jupyter Notebooks*, Arxiv 2018, <https://arxiv.org/abs/1810.08055>
+    - *Ten simple rules for writing and sharing computational analyses in Jupyter Notebooks*, PLoS Comput Biol 15(7): e1007007. <https://doi.org/10.1371/journal.pcbi.1007007>
+  - Mary Beth Kery, Marissa Radensky, Mahima Arya, Bonnie E. John, and Brad A. Myers. 2018. *The Story in the Notebook: Exploratory Data Science using a Literate Programming Tool*. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 174, 11 pages. DOI: <https://doi.org/10.1145/3173574.3173748>, (<https://www.youtube.com/watch?v=bmLUcnu1Qi8>)
 
 ### Presentations
 
