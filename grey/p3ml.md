@@ -17,7 +17,7 @@ different platforms:
   - [ResearchGate](https://www.researchgate.net/project/P3ML-ML-Engineering-Knowledge)
   - [GitHub](https://github.com/p3ml/)
 
-### Jupyter Notebooks
+## Jupyter Notebooks
 
 All our notebooks have been published at
 [GitHub](https://github.com/p3ml/). For ease of access we created an
@@ -90,7 +90,8 @@ below the code cell.
          function](https://nbviewer.jupyter.org/github/p3ml/recipes/blob/master/Training%20Neural%20Networks%20Without%20Backpropagation.ipynb)
 
 (\*) Shown during the talk.
-### On Navigating the Flood
+
+## On Navigating the Flood
 
 During the project with covered some technology that could be helpful to
 navigate the Open Science Publishing Flood.
