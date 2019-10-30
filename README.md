@@ -51,3 +51,7 @@ Via [nbviewer](https://nbviewer.jupyter.org/github/p3ml/ai_language_technology/)
 * [Hindi Data Precessing](https://github.com/p3ml/ai_language_technology/blob/master/hindi_data_preprocessing.ipynb)
 * [Hindi nball experiment 1](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment1.ipynb)
 * [Hindi nball experiment 2](https://github.com/p3ml/ai_language_technology/blob/master/hindi_results_experiment2.ipynb)
+
+## Some Comments on Our Notebooks
+We gave some impulses for the panel [The Open Science Publishing Flood and Collaborative Authoring](https://github.com/mrchristian/Open-Science-Publishing-Flood-and-Collaborative-Authoring) at the [Twenty-First International Conference on Grey Literature "Open Science Encompasses New Forms of Grey Literature"](http://www.textrelease.com/gl21program.html):
+[Grey Literature as Result of the P3ML Project (Some Contribution to the Flood and Means to Navigate it)](grey/panel).
